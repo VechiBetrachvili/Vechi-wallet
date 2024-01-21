@@ -40,7 +40,7 @@ Installing
 **node.js**
 
 ```
-/home/ricmoo/some_project> npm install --save ethers
+start the installation on the desired windows pc using the setup.exe provided
 ```
 
 **browser (UMD)**
